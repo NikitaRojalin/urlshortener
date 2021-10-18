@@ -1,0 +1,15 @@
+.bcimg{
+    background-image: url('https://www.magesolution.com/blog/wp-content/uploads/2019/12/URL-shortener-3.png');
+background-size: cover;
+
+    width: 100%;
+      background-repeat: no-repeat;
+  height:100vh;
+
+}
+a{
+    color:white;
+}
+a:hover{
+    color:yellow;
+}
